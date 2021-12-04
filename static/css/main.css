@@ -47,12 +47,12 @@ a {
   margin-bottom: 8px; }
 
 .devops-path h1 {
-  border-bottom: 4px solid #47a356;
-  color: #00b00f; }
+  border-bottom: 4px solid #5a9cd2;
+  color: #5a9cd2; }
 
 .ex-path h1 {
-  border-bottom: 4px solid #808080;
-  color: #808080; }
+  border-bottom: 4px solid #5a9cd2;
+  color: #5a9cd2; }
 
 .course {
   vertical-align: top;
@@ -61,7 +61,7 @@ a {
   padding: 16px;
   margin-bottom: 12px;
   border-radius: 2px;
-  background-color: #808080;
+  background-color: #5a9cd2;
   font-size: 14px;
   color: #fff;
   transition: all 0.3s; }
@@ -76,15 +76,15 @@ a {
     font-size: 16px; }
 
 .devops-course {
-  background-color: #00aab0;
+  background-color: #5a9cd2;
   color: #fff; }
 
 .ops-course {
-  background-color: #00aab0;
+  background-color: #5a9cd2;
   color: #fff; }
 
 .dev-course {
-  background-color: #00aab0;
+  background-color: #5a9cd2;
   color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
