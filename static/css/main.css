@@ -63,7 +63,7 @@ a {
   border-radius: 2px;
   background-color: #5a9cd2;
   font-size: 14px;
-  color: #fff;
+  color: rgb(206, 7, 7);
   transition: all 0.3s; }
   .course:nth-child(odd) {
     margin-left: 1%; }
@@ -77,14 +77,14 @@ a {
 
 .devops-course {
   background-color: #5a9cd2;
-  color: #fff; }
+  color: rgb(206, 7, 7); }
 
 .ops-course {
   background-color: #5a9cd2;
-  color: #fff; }
+  color: rgb(206, 7, 7); }
 
 .dev-course {
   background-color: #5a9cd2;
-  color: #fff; }
+  color: rgb(206, 7, 7); }
 
 /*# sourceMappingURL=main.css.map */
