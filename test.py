@@ -4,7 +4,7 @@ import unittest
 class Test(unittest.TestCase):
     
     def setUp(self):
-        # cria uma instancia do unittest, precisa do nome "setUp"
+        # cria uma instancia do unittest, precisa do nome "setUp".
         self.app = app.test_client()
 
     def test_requisicao(self):
