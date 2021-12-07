@@ -28,7 +28,14 @@ a {
   background-color: #5a9cd2;
   text-align: center;
   font-weight: 700;
-  color: #fff; }
+  color: #fff; 
+ 
+  border-radius: 0px;
+  background: linear-gradient(145deg, #c67cc7, #eb94ec);
+  box-shadow:  2px 2px 2px #d183d2,
+             -2px -2px 3px #e791e8;
+  
+}
 
 .logo {
   text-align: center; }
