@@ -122,7 +122,7 @@ a {
 
 .header {
 
-  position: flex;
+  position: fixed;
   top: 0;
   left: 0;
   width: 10%;
@@ -132,19 +132,19 @@ a {
   background-color: #c67cc7;
   text-align: left;
   
-/*   font-weight: 700;
+/* font-weight: 700;
  */  color: #fff; 
 
- /*  display: flex ;
+  display: flex ;
   align-items: stretch ;
-  justify-content: end;
+  justify-content: center;
   position: flex;
   margin-top: 5% 0; */
 }
 
 
 .header-menu {
-  margin: 0
+  margin: 16px
   
 
 }
