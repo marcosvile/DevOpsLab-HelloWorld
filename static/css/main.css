@@ -76,8 +76,13 @@ a {
     font-size: 16px; }
 
 .devops-course {
-  background-color: #5a9cd2;
-  color: rgb(255, 255, 255); }
+  border-radius: 15px;
+  background: linear-gradient(145deg, #60a7e1, #518cbd);
+  box-shadow:  2px 2px 5px #4f89b9,
+               -2px -2px 5px #65afeb;
+
+  /*background-color: #5a9cd2;
+  color: rgb(255, 255, 255); */}
 
 .ops-course {
   background-color: #5a9cd2;
