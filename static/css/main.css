@@ -124,7 +124,7 @@ a {
   
   border-radius: 0 0 4px 4px;
   background-color: #c67cc7;
-  text-align: center;
+  text-align: auto;
   font-weight: 700;
   color: #fff; 
   padding: 5px;
@@ -144,7 +144,7 @@ a {
 
   display: flex;
   align-items: auto ;
-  justify-content: center;
+  justify-content: auto;
   margin-top: 0% 0%;
   margin-left: auto;
   border-radius: 0 0 44px 44px;
