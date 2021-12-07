@@ -121,25 +121,34 @@ a {
 
 
 .header {
-
-  position: fixed;
+  
+  border-radius: 0 0 4px 4px;
+  background-color: #c67cc7;
+  text-align: center;
+  font-weight: 700;
+  color: #fff; 
+  padding: 5px;
+  margin-bottom: 2px;
+  border-radius: 2px;
+ 
+  /* position: fixed;
   top: 0;
   left: 0;
   width: 10%;
   height: 100%;
-  padding: 8px 16px;
-  border-radius: 0 0 4px 4px;
   background-color: #c67cc7;
   text-align: left;
   
 /* font-weight: 700;
  */  color: #fff; 
 
-  display: flex ;
-  align-items: stretch ;
+  display: flex;
+  align-items: auto ;
   justify-content: center;
-  position: flex;
-  margin-top: 5% 0;
+  margin-top: 0% 0%;
+  margin-left: auto;
+  border-radius: 0 0 44px 44px;
+
 }
 
 
