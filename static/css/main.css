@@ -119,4 +119,22 @@ a {
                -2px -2px 5px #2bb576
 }
 
+
+.header {
+  display: flex ;
+  align-items: stretch ;
+  justify-content: end;
+
+}
+
+
+.header-menu {
+  margin: 15px
+
+}
+
+.header-link{
+  font-size: 20px
+
+}
 /*# sourceMappingURL=main.css.map */
