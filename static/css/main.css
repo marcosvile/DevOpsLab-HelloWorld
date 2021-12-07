@@ -51,8 +51,8 @@ a {
   color: #5a9cd2; }
 
 .ex-path h1 {
-  border-bottom: 4px solid #5a9cd2;
-  color: #5a9cd2; }
+  border-bottom: 4px solid #218f5c;
+  color: #218f5c; }
 
 .course {
   vertical-align: top;
@@ -91,5 +91,25 @@ a {
 .dev-course {
   background-color: #5a9cd2;
   color: rgb(255, 255, 255); }
+
+
+
+
+.tel h1 {
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 8px; }
+
+.ex-tel h1 {
+    border-bottom: 4px solid #5a9cd2;
+    color: #5a9cd2; }
+  
+.tel-gram {
+
+  border-radius: 15px;
+  background: linear-gradient(145deg, #29ad70, #22925f);
+  box-shadow:  2px 2px 5px #218f5c,
+               -2px -2px 5px #2bb576
+}
 
 /*# sourceMappingURL=main.css.map */
