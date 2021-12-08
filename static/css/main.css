@@ -25,7 +25,7 @@ a {
   width: 100%;
   padding: 8px 16px;
   border-radius: 0 0 4px 4px;
-  background-color: #c67cc7;
+  background-color: #82c77c;
   text-align: center;
   font-weight: 700;
   color: #fff; 
@@ -123,7 +123,7 @@ a {
 .header {
   
   border-radius: 0 0 4px 4px;
-  background-color: #c67cc7;
+  background-color: hsl(27, 84%, 54%);
   text-align: auto;
   font-weight: 700;
   color: #fff; 
