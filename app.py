@@ -6,6 +6,8 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+def explorar():
+    return render_template('explorar.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
