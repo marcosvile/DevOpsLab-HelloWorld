@@ -28,14 +28,8 @@ a {
   background-color: #82c77c;
   text-align: center;
   font-weight: 700;
-  color: #fff; 
- 
-  /* border-radius: 0px;
-  background: linear-gradient(145deg, #c67cc7, #eb94ec);
-  box-shadow:  2px 2px 2px #d183d2,
-             -2px -2px 3px #e791e8; */
+  color: #fff; }
   
-}
 
 .logo {
   text-align: center; }
