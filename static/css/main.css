@@ -88,8 +88,7 @@ a {
   box-shadow:  2px 2px 5px #4f89b9,
                -2px -2px 5px #65afeb;
 
-  /*background-color: #5a9cd2;
-  color: rgb(255, 255, 255); */}
+  }
 
 .ops-course {
   background-color: #5a9cd2;
@@ -98,8 +97,6 @@ a {
 .dev-course {
   background-color: #5a9cd2;
   color: rgb(255, 255, 255); }
-
-
 
 
 .tel h1 {
@@ -131,16 +128,7 @@ a {
   margin-bottom: 2px;
   border-radius: 2px;
  
-  /* position: fixed;
-  top: 0;
-  left: 0;
-  width: 10%;
-  height: 100%;
-  background-color: #c67cc7;
-  text-align: left;
-  
-/* font-weight: 700;
- */  color: #fff; 
+  color: #fff; 
 
   display: flex;
   align-items: auto ;
