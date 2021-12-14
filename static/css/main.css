@@ -123,7 +123,7 @@ a {
 .header {
   
   border-radius: 0 0 4px 4px;
-  background-color: hsl(27, 84%, 54%);
+  background-color: #5a9cd2;
   text-align: auto;
   font-weight: 700;
   color: #fff; 
@@ -191,19 +191,19 @@ a {
  
 .image {
   float: right;
-  max-width: 64px;
-  max-height: 64px;
+  max-width: 128px;
+  max-height: 128px;
 }
 
 .blue {
-  border-left: 3px solid #4895ff;
+  border-left: 3px solid #5a9cd2;
 }
  
 .green {
-  border-left: 3px solid #3bb54a;
+  border-left: 3px solid #5a9cd2;
 }
  
 .red {
-  border-left: 3px solid #b3404a;
+  border-left: 3px solid #5a9cd2;
 }
 /*# sourceMappingURL=main.css.map */
