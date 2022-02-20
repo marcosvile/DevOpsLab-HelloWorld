@@ -1,2 +1,4 @@
 Flask==1.0.0
 gunicorn
+
+fail-fast: false
