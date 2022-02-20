@@ -16,7 +16,7 @@ class Test(unittest.TestCase):
 
     def test_conteudo(self):
         # envia uma requisicao GET para a URL
-        result = self.app.get('/index.hmtl') 
+        result = self.app.get('/index.html') 
 
         # verifica o retorno do conteudo da pagina
         self.assertRegex(result.data.decode(), "Bem Vindo a página Guia do Dev")
