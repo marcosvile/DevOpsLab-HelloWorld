@@ -145,6 +145,11 @@ a {
 
 }
 
+.header-link1{
+  font-size: 20px
+
+}
+
 .row {
   display: flex;
   justify-content: center;
@@ -181,6 +186,21 @@ a {
   border-left: 3px solid #5a9cd2;
 }
  
+.blue1 {
+  border-left: 3px solid #031524;
+  display: flex;
+  align-items: justify;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  background-color: #73baf5
+  
+}
+
+.textal {
+align-items: center;
+
+}
 .green {
   border-left: 3px solid #5a9cd2;
 }
@@ -189,3 +209,16 @@ a {
   border-left: 3px solid #5a9cd2;
 }
 /*# sourceMappingURL=main.css.map */
+
+.container1 {
+
+max-width: 1024px;
+margin: auto;
+display: flow-root;
+
+}
+
+.keep-explore {
+  text-align: center;
+  font-weight: 300;
+  font-size: 30px; }
