@@ -7,7 +7,7 @@ def index():
     return render_template('index.html')
 
 # @app.route("/index.html") #rota para o index
-# def index1():
+# def index2():
 #     return render_template('index.html')
 
 @app.route("/explorar.html")
